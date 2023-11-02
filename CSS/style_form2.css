@@ -1,0 +1,57 @@
+
+#table {display: flex;flex-direction: row;}
+#table input{max-width: 30px; }
+
+
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+    font-family: 'Poppins';
+}
+td, th{
+    border: 1px solid white;
+}
+
+#note {
+    display: flex;
+    flex-direction: column;
+}
+
+.canon{
+    width: 50px;
+    padding: 2px;
+    background-color:#2A2A2A ;
+    border: solid 2px white;
+    color: white;
+    font-family: 'Poppins';
+    text-align: center ;
+}
+
+.hp{
+    display: flex;
+}
+
+#Bouton_Valider{
+    margin-top: 50px;
+    padding: 7px;
+    background-color:#2A2A2A ;
+    border-radius:  8px;
+    border: solid white;
+    color: white;
+    font-family: 'Poppins';
+    transition: .3s;
+}
+
+#Bouton_Valider:hover{
+    background-color: dodgerblue;
+}
+
+.nom_matiere {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td{
+    text-align: center;
+}

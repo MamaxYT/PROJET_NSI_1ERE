@@ -1,0 +1,26 @@
+/* TEXTE */
+
+
+h1
+{
+    color: white;
+    font-family: 'Poppins';
+}
+
+p
+{
+    color: white;
+    font-family: 'Poppins';
+}
+
+#Realise{
+    font-size: 14px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}

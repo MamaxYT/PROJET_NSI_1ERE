@@ -1,0 +1,59 @@
+#presentation{
+    background: linear-gradient(rgb(0, 247, 255), dodgerblue);
+    border-radius: 3px;
+}
+
+table{
+    color: white;
+    font-family: 'Poppins';
+}
+
+#Bouton_Valider{
+    margin-top: 50px;
+    padding: 7px;
+    background-color:#2A2A2A ;
+    border-radius:  8px;
+    border: solid white;
+    color: white;
+    font-family: 'Poppins';
+    transition: .3s;
+}
+.Bouton_Pref{
+    margin-top: 10px;
+    padding: 2px;
+    background-color:#2A2A2A ;
+    border-radius:  6px;
+    border: solid white 1.5px;
+    color: white;
+    font-family: 'Poppins';
+    transition: .3s;
+    
+}
+
+.Bouton_Pref:hover{
+    background-color: dodgerblue;
+}
+
+#Bouton_Valider:hover{
+    background-color: dodgerblue;
+}
+
+.inputcoef{
+    display: none;
+    width: 20px;
+    padding: 2px;
+    background-color:#2A2A2A ;
+    border: solid 2px white;
+    color: white;
+    font-family: 'Poppins';
+    text-align: center ;
+}
+
+#Mathématiquesdiv{
+    visibility: hidden;
+}
+
+td{
+    text-align: center;
+}
+
